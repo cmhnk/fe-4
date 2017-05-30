@@ -1,0 +1,32 @@
+.page {
+  background: rgba(243, 246, 255, 0.58); }
+
+.container--text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Oxygen', sans-serif;
+  color: rgba(3, 169, 244, 0.67); }
+
+.container_item--1 {
+  display: block;
+  padding: 10px;
+  font-size: 20px;
+  color: rgba(16, 76, 103, 0.67); }
+
+.container_item--2 {
+  padding: 100px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 40px; }
+
+.button {
+  background-color: #4CAF50;
+  border: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px; }
+
+/*# sourceMappingURL=clock.css.map */

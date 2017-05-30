@@ -1,0 +1,36 @@
+$green: #4CAF50;
+$light-blue: rgba(3, 169, 244, 0.67);
+$gray-blue: rgba(16, 76, 103, 0.67);
+$light-gray: rgba(243, 246, 255, 0.58);
+
+.page {
+  background: $light-gray;
+}
+.container--text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Oxygen', sans-serif;
+  color: $light-blue;
+}
+.container_item--1 {
+  display: block;
+  padding: 10px;
+  font-size: 20px;
+  color: $gray-blue;
+}
+.container_item--2 {
+  padding: 100px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 40px;
+}
+.button {
+    background-color: $green;
+    border: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+}
